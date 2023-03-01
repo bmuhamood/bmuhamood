@@ -49,7 +49,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
 <img align="left" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-<img align="left" width="26px"  src="https://camo.githubusercontent.com/e80d67f4b621bec6ed40edf58ccde3dc2f9e3d68db3d50feaec72f6ad2fb4737/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d567a315655374a7772744d2f56344547612d48667375492f41414141414141414356672f4c68347674545973554c416e49696e646f6763706b36416a31785956414d665041434c63422f733634302f706c5f73716c5f6c6f676f2e706e67">
+<img align="left" width="35px"  src="https://camo.githubusercontent.com/e80d67f4b621bec6ed40edf58ccde3dc2f9e3d68db3d50feaec72f6ad2fb4737/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d567a315655374a7772744d2f56344547612d48667375492f41414141414141414356672f4c68347674545973554c416e49696e646f6763706b36416a31785956414d665041434c63422f733634302f706c5f73716c5f6c6f676f2e706e67">
 <br />
 
 #### Tools:
