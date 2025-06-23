@@ -1,7 +1,4 @@
-👋 Hey there!
-
-
-
+## 👋 Hey there!
 
 Hi, I'm Bbosa Muhamood — a passionate full-stack web developer and freelance software engineer based in Dubai, UAE.
 
